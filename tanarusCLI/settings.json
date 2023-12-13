@@ -1,0 +1,13 @@
+{
+  "new_user": false,
+  "username": "Jake",
+  "location": "Pittsburgh",
+  "latitude": 40.4406,
+  "longitude": -79.9959,
+  "fullprint": true,
+  "printmodes": {
+    "full": true,
+    "today_hourly": false,
+    "week": false
+  }
+}

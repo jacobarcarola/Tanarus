@@ -1,0 +1,13 @@
+{
+    "new_user": true,
+    "username": "default",
+    "location": "default",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "fullprint": true,
+    "printmodes": {
+        "full": true,
+        "today_hourly": false,
+        "week": false
+    }
+}
